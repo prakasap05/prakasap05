@@ -10,9 +10,9 @@
 
 <h3 align="left">Hubungkan dengan saya: </h3>
 <p align="left">
-<a href="https://linkedin.com/in/prakasa-putra-069649258" target="blank"><img align="center" src="https ://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakasa-putra-069649258" height="30 " lebar="40" /></a>
-<a href="https://fb.com/prakasajr64" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prakasajr64" height="30" width="40" /></a> <
-a href="https://instagram.com/akas_644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master /src/images/icons/Social/instagram.svg" alt="akas_644" height="30" width="40" /></a>
+<a href="https://www.facebook.com/prakasajr64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="prakasa putra." height="30" width="40" /></a>
+<a href="https://instagram.com/akas_644" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akas_644" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Bahasa dan Alat: </h3>

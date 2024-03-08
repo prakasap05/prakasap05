@@ -1,11 +1,10 @@
 <h1 align="center">Hai 👋, saya Prakasa Putra</h1>
 <h3 align="center">Pengembang Android dari Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakasap05" alt="prakasap05" /></a> </p>
 <p align="left"> Profile views </p>
 <img src="https://count.getloli.com/get/@:prakasap05?theme=rule34" alt="prakasap05" />
 
-<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakasaputra05" alt="prakasaputra05" /></a > </p>
+<p align="left"> <a href="https:/ /github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakasap05" alt="prakasap05" /></a > </p>
 
 - 👨‍💻 Semua proyek saya tersedia di [https://prakasa.buitenzorgsyndicate.id](https://prakasa.buitenzorgsyndicate.id)
 

@@ -1,5 +1,5 @@
-<h1 align="center">Hai 👋, saya Prakasa Putra</h1>
-<h3 align="center">Pengembang Android dari Indonesia</h3>
+<h1 align="center">Hi 👋, I'm Prakasa Putra</h1>
+<h3 align="center">a Software Developer from Indonesia.</h3>
 
 <p align="left"> Profile views </p>
 <img src="https://count.getloli.com/get/@:prakasap05?theme=rule34" alt="prakasap05" />

@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakasap05&show_icons=true&locale=en" alt="prakasap05" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakasap05&" alt="prakasap05" /></p>
+
+[![committers.top badge](https://user-badge.committers.top/indonesia_public/prakasap05.svg)](https://user-badge.committers.top/indonesia_public/prakasap05)
